@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.inhatc.haramnavigation'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.inhatc.haramnavigation"
-        minSdk 31
-        targetSdk 33
+        minSdk 30
+        targetSdk 30
         versionCode 1
         versionName "1.0"
 
